@@ -1,0 +1,29 @@
+
+.quote-container{
+    padding: 10px;
+    border-radius: 16px;
+    margin: auto;
+    background-color: #344fa1;
+    color: white;
+    width: 80%;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.quote-container h3{
+    width: 100%;
+}
+
+.author-container{
+    width: 100%;
+    display: block;
+}
+
+button{
+    width:100px;
+    border-radius: 50px;
+    border: none;
+    background-color: #f0ebcc;
+    margin: 0 auto;
+}
