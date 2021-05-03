@@ -20,15 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b67980a1-2dab-4ba4-836c-11f3b3424a3c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Author.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QuoteBox.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RefreshButton.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/quotes.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/.eslintcache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QuoteBox.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/QuoteBox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RefreshButton.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/RefreshButton.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +80,7 @@
       <option name="presentableId" value="Default" />
       <updated>1620020803428</updated>
       <workItem from="1620020804526" duration="2204000" />
-      <workItem from="1620053691035" duration="3652000" />
+      <workItem from="1620053691035" duration="5689000" />
     </task>
     <task id="LOCAL-00001" summary="Ay esto es todo para el incio de la app">
       <created>1620021429687</created>
@@ -94,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620021429687</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Listo con el ejercicio pero no supe cómo introducir los estados">
+      <created>1620057394343</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1620057394343</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,7 +116,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ay esto es todo para el incio de la app" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ay esto es todo para el incio de la app" />
+    <MESSAGE value="Listo con el ejercicio pero no supe cómo introducir los estados" />
+    <option name="LAST_COMMIT_MESSAGE" value="Listo con el ejercicio pero no supe cómo introducir los estados" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1630" y="95" width="828" height="524" key="IDE.errors.dialog" timestamp="1620021399503">
@@ -125,9 +128,9 @@
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="1536" y="-7" key="SettingsEditor/0.0.1366.768/1366.0.1366.768@1366.0.1366.768" timestamp="1620022316626" />
-    <state x="1642" y="80" width="804" height="554" key="Vcs.Push.Dialog.v2" timestamp="1620021434362">
+    <state x="1640" y="54" width="804" height="554" key="Vcs.Push.Dialog.v2" timestamp="1620057397531">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
-    <state x="1642" y="80" width="804" height="554" key="Vcs.Push.Dialog.v2/0.0.1366.768/1366.0.1366.768@1366.0.1366.768" timestamp="1620021434362" />
+    <state x="1640" y="54" width="804" height="554" key="Vcs.Push.Dialog.v2/0.0.1366.768/1366.0.1366.768@1366.0.1366.768" timestamp="1620057397531" />
   </component>
 </project>
