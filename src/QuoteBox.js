@@ -6,6 +6,9 @@ import RefreshButton from "./RefreshButton";
 
 
 
+
+// Este componente pinta en el navegador, dado un arreglo de frases, una quote con su autor
+// No es candidata a useCallback porque no calcula nada más que acceder a posiciones en un arreglo y eso es tiempo lineal
 const QuoteBox = ({frases}) =>{
 
 
