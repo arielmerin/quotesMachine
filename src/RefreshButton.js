@@ -1,12 +1,10 @@
 import "./assets/css/styles.css"
 
 
-const RefreshButton = ({}) =>{
-
-
+const RefreshButton = ({cambiarFrase}) =>{
     const refreshPage = ()=> window.location.reload();
     return(
-        <button onClick={refreshPage} className="button ">
+        <button onClick={cambiarFrase} className="button ">
             Otra frase
         </button>
     );
