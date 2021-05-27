@@ -39,11 +39,11 @@ const QuoteBox = ({frases}) =>{
         body[0].style.backgroundColor = background
     }
     return(
-        <div style={{backgroundColor: background, height: '100vh', display: 'flex', width: '100vw', padding:'20px'}}>
+        <div style={{backgroundColor: background, height: '120vh', display: 'flex', width: '100vw', padding:'20px'}}>
             <div className="quote-container" style={{backgroundColor: background}}>
                 <h3>"{currentQuote}"</h3>
                 <div className="buttons-container">
-                    <p><Author autor= {currentAuthor} /></p>
+                    <Author autor= {currentAuthor} />
                     < RefreshButton cambiarFrase={frasesAletoreas} color={background} />
                 </div>
             </div>

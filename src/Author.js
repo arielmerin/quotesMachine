@@ -5,7 +5,6 @@ import "./assets/css/styles.css"
 // No es candidata a useCallback porque no calcula absolutamente nada
 const Author = ({autor}) =>{
     return (
-
         <div className="author-container">
             <i>- {autor}</i>
         </div>
