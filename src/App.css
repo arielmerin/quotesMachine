@@ -5,6 +5,9 @@
   align-items: center;
   height: 100vh;
 }
+*{
+  box-sizing: border-box;
+}
 
 .App-logo {
   height: 40vmin;

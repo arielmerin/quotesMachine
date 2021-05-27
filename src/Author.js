@@ -7,7 +7,7 @@ const Author = ({autor}) =>{
     return (
 
         <div className="author-container">
-            <i>By {autor}</i>
+            <i>- {autor}</i>
         </div>
     )
 }

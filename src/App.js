@@ -7,8 +7,11 @@ import quotes from "./assets/quotes.json";
 // NO es candidata a useCallback porque no calcula nada significativo
 function App() {
     return (
-    <div className="App">
-      < QuoteBox frases={quotes.quotes}/>
+
+    <div className="App" >
+        <div>
+            < QuoteBox frases={quotes.quotes}/>
+        </div>
     </div>
   );
 }
